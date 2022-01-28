@@ -17,6 +17,10 @@
 		B13F027F27A470C4007699AB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B13F025527A470C2007699AB /* ContentView.swift */; };
 		B13F028027A470C4007699AB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B13F025627A470C4007699AB /* Assets.xcassets */; };
 		B13F028127A470C4007699AB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B13F025627A470C4007699AB /* Assets.xcassets */; };
+		B13F029127A47133007699AB /* Quadratic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B13F029027A47133007699AB /* Quadratic.swift */; };
+		B13F029227A47133007699AB /* Quadratic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B13F029027A47133007699AB /* Quadratic.swift */; };
+		B13F029327A47133007699AB /* Quadratic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B13F029027A47133007699AB /* Quadratic.swift */; };
+		B13F029427A47133007699AB /* Quadratic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B13F029027A47133007699AB /* Quadratic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +53,7 @@
 		B13F027427A470C4007699AB /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B13F027827A470C4007699AB /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		B13F027A27A470C4007699AB /* Tests_macOSLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOSLaunchTests.swift; sourceTree = "<group>"; };
+		B13F029027A47133007699AB /* Quadratic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quadratic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +104,7 @@
 			children = (
 				B13F025427A470C2007699AB /* HW2_QuadraticApp.swift */,
 				B13F025527A470C2007699AB /* ContentView.swift */,
+				B13F029027A47133007699AB /* Quadratic.swift */,
 				B13F025627A470C4007699AB /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -301,6 +307,7 @@
 			files = (
 				B13F027E27A470C4007699AB /* ContentView.swift in Sources */,
 				B13F027C27A470C4007699AB /* HW2_QuadraticApp.swift in Sources */,
+				B13F029127A47133007699AB /* Quadratic.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -310,6 +317,7 @@
 			files = (
 				B13F027F27A470C4007699AB /* ContentView.swift in Sources */,
 				B13F027D27A470C4007699AB /* HW2_QuadraticApp.swift in Sources */,
+				B13F029227A47133007699AB /* Quadratic.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -319,6 +327,7 @@
 			files = (
 				B13F026F27A470C4007699AB /* Tests_iOSLaunchTests.swift in Sources */,
 				B13F026D27A470C4007699AB /* Tests_iOS.swift in Sources */,
+				B13F029327A47133007699AB /* Quadratic.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -328,6 +337,7 @@
 			files = (
 				B13F027B27A470C4007699AB /* Tests_macOSLaunchTests.swift in Sources */,
 				B13F027927A470C4007699AB /* Tests_macOS.swift in Sources */,
+				B13F029427A47133007699AB /* Quadratic.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
