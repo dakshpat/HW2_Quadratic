@@ -62,7 +62,7 @@ struct ContentView: View {
                 
             }
             
-
+//creating a button that calculates the diffrent forms 
             
             Button("Calculate"){
                 self.Form1Sol1 = quadratic.quadraticForm1Sol1(aValue: quadratic.aValue, bValue: quadratic.bValue, cValue: quadratic.cValue)
